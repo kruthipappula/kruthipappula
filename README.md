@@ -20,4 +20,4 @@ I'm interested in networking, systems, cybersecurity, and applied AI/ML. I enjoy
 
 I'm currently building a Python network traffic analyzer to strengthen my networking, systems, and cybersecurity experience.
 
-📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/kruthi-pappula)
+🔗 [Connect with me on LinkedIn!](https://www.linkedin.com/in/kruthi-pappula)
