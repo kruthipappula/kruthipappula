@@ -18,6 +18,4 @@ I'm interested in networking, systems, cybersecurity, and applied AI/ML. I enjoy
 - pandas, scikit-learn, Streamlit
 - pytest, logging, and API integration
 
-I'm currently building a Python network traffic analyzer to strengthen my networking, systems, and cybersecurity experience.
-
 🔗 [Connect with me on LinkedIn!](https://www.linkedin.com/in/kruthi-pappula)
